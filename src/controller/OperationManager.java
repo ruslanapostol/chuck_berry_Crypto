@@ -1,5 +1,7 @@
 package controller;
 
+import view.ConsoleView;
+
 import java.util.Scanner;
 
 public class OperationManager {
